@@ -12,12 +12,8 @@
     </p>
 </div>
 
-<br/>
+---
 
-<div align="center">
-    <a name="Books"></a>
-    <h3>📚&nbsp;推荐书籍&nbsp;📚</h3>
-</div>
 <table align="center">
     <tr align="center">
     	<th width="150">封面</th>
