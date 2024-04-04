@@ -7,6 +7,7 @@
     <a href="https://blog.csdn.net/daoge2666/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>
     <a href="https://www.zhihu.com/people/dao-ge-92-60/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>
     <img src="https://komarev.com/ghpvc/?username=LiZhengXiao99&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+    <img src="https://pic-bed-1316053657.cos.ap-nanjing.myqcloud.com/img/662bf58e5529e6a138945e9ffc90893e.png" alt="662bf58e5529e6a138945e9ffc90893e" style="zoom:50%;" />
 </div>
 
 <br/>
@@ -269,3 +270,4 @@
         </td>
     </tr>
 </table>
+
