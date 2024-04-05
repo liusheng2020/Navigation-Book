@@ -29,7 +29,7 @@
             </p>
 			<p>&nbsp;&nbsp;&nbsp;&nbsp;我最推荐的卫星导航入门参考书，全面且系统地介绍了GNSS的原理。从信号体制到接收机信号处理，从观测值误差分析到各种定位技术，再到航位推算、组合导航和地图匹配等，无一不包。这本书能让你深入透彻地理解GNSS的工作原理，为后续的进阶学习打下坚实的基础。</p>
             <p>&nbsp;&nbsp;&nbsp;&nbsp;对于从事GNSS数据处理的朋友，我强烈推荐你们学习基带算法。只依赖接收机输出的伪距、载波、多普勒和信噪比等数据进行定位，还是太浅了；深入了解接收机内部的原理，包括卫星信号的结构、发射方式、传播过程，以及接收机的天线信号接收、射频前端处理、基带数字信号处理等全流程，能够让你对数据处理算法有更深刻的理解；而且许多GNSS的岗位不仅要求掌握定位技术，还要求对基带算法有所了解。</p>
-        	<p align="center" > 👉👉👉&nbsp;  <a href='' target='_blank'>点击跳转</a> &nbsp;👈👈👈</p>
+        	<p align="center" > 👉👉👉&nbsp;  <a href='https://github.com/LiZhengXiao99/Navigation-Book/blob/main/GPS%E5%8E%9F%E7%90%86%E4%B8%8E%E6%8E%A5%E6%94%B6%E6%9C%BA%E8%AE%BE%E8%AE%A1-%E8%B0%A2%E9%92%A2.pdf' target='_blank'>点击下载</a> &nbsp;👈👈👈</p>
         </td>
     </tr>
     </tr>
@@ -44,7 +44,7 @@
             <p>
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;薄薄的一小本，一百多面，我主要是推荐配套的开源程序SoftGNSS，MATLAB 编写，实现了一套最简单的 GNSS 软件接收机功；输入经过天线接收，射频前端滤波下变频后的数字中频信号文件，进行 GPS L1 C/A 码的捕获跟踪，生成伪距观测值，解译导航电文，最小二乘定位解算；代码量很小也很简单，适合作为 GNSS 基带数字信号处理的入门阅读程序。
             </p>
-            <p align="center" > 👉👉👉&nbsp;  <a href='' target='_blank'>点击跳转</a> &nbsp;👈👈👈</p>
+            <p align="center" > 👉👉👉&nbsp;  <a href='https://github.com/LiZhengXiao99/Navigation-Book/blob/main/%E8%BD%AF%E4%BB%B6%E5%AE%9A%E4%B9%89%E7%9A%84GPS%E5%92%8C%E4%BC%BD%E5%88%A9%E7%95%A5%E6%8E%A5%E6%94%B6%E6%9C%BA-Kai-Borre.pdf' target='_blank'>点击下载</a> &nbsp;👈👈👈</p>
         </td>
     </tr>
     </tr>
@@ -59,7 +59,7 @@
             <p>
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;主要是推荐书附带的程序，MATLAB 编写 GPS-L1/BDS-B1 软件接收机，学一学北斗信号处理算法，NH码处理啥的；程序运行相当耗时，70s 的数据要算几个小时。书写的有些部分写的比谢刚的《GPS原理与接收机设计》要细致深入，代码的有些部分处理的比SoftGNSS细致，可以结合着一块看。
             </p>
-            <p align="center" > 👉👉👉&nbsp;  <a href='' target='_blank'>点击跳转</a> &nbsp;👈👈👈</p>
+            <p align="center" > 👉👉👉&nbsp;  <a href='https://github.com/LiZhengXiao99/Navigation-Book/blob/main/%E5%8C%97%E6%96%97GPS%E5%8F%8C%E6%A8%A1%E8%BD%AF%E4%BB%B6%E6%8E%A5%E6%94%B6%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%AE%9E%E7%8E%B0%E6%8A%80%E6%9C%AF-%E9%B2%81%E9%83%81.pdf' target='_blank'>点击下载</a> &nbsp;👈👈👈</p>
         </td>
     </tr>
     <tr>
@@ -79,7 +79,7 @@
             <p>
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;至于其它的 GNSS 数据处理书，我都不推荐看，入了门之后就该看论文，先看综述，再看硕博学位论文，之后可以顺着引用的文献继续看；看综述，帮你快速了解所处领域的研究进展；看硕博论文，补充一些书上没讲到的算法和知识点；不推荐初学者看英文原著，英文书写的也不能比中文的强多少，但是英语带来的学习障碍可不小。
             </p>
-            <p align="center" > 👉👉👉&nbsp;  <a href='' target='_blank'>点击跳转</a> &nbsp;👈👈👈</p>
+            <p align="center" > 👉👉👉&nbsp;  <a href='https://github.com/LiZhengXiao99/Navigation-Book/blob/main/GPS%E6%B5%8B%E9%87%8F%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.pdf' target='_blank'>点击下载</a> &nbsp;👈👈👈</p>
         </td>
     </tr>
     <tr>
@@ -107,7 +107,7 @@
             <p>
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;严老师把捷联惯导、组合导航的算法讲的很透彻，不过整本书都是公式推导，学起来相当有难度；前三章介绍常用姿态、坐标系，地球相关参数计算，第四章介绍捷联惯导递推、误差传播，五六章介绍参数估计、各种滤波，第七章介绍松组合、初始对准，第八章讲仿真。B 站有上配套的视频课《卡尔曼滤波与组合导航》，严老师开源了配套的 MATLAB 捷联惯导工具箱 PSINS，都是入门捷联惯导、组合导航不错的资料。
             </p>
-            <p align="center" > 👉👉👉&nbsp;  <a href='' target='_blank'>点击跳转</a> &nbsp;👈👈👈</p>
+            <p align="center" > 👉👉👉&nbsp;  <a href='https://github.com/LiZhengXiao99/Navigation-Book/blob/main/%E6%8D%B7%E8%81%94%E6%83%AF%E5%AF%BC%E7%AE%97%E6%B3%95%E4%B8%8E%E7%BB%84%E5%90%88%E5%AF%BC%E8%88%AA%E5%8E%9F%E7%90%86-%E4%B8%A5%E6%81%AD%E6%95%8F.pdf' target='_blank'>点击下载</a> &nbsp;👈👈👈</p>
         </td>
     </tr>
 	</tr>
@@ -157,7 +157,7 @@
     			<li><strong>激光雷达的定位与建图：</strong>基础点云算法、2D-SLAM、3D-SLAM、激光惯性松组合里程计</li>
     			<li><strong>应用实例：</strong>Lins、离线点云地图构建、已有点云地图中定位、实时定位</li>
 				</ul>
-            <p align="center" > 👉👉👉&nbsp;  <a href='' target='_blank'>点击跳转</a> &nbsp;👈👈👈</p>
+            <p align="center" > 👉👉👉&nbsp;  <a href='https://github.com/LiZhengXiao99/Navigation-Book/blob/main/%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E4%B8%AD%E7%9A%84slam%E6%8A%80%E6%9C%AF-%E9%AB%98%E7%BF%94.pdf' target='_blank'>点击下载</a> &nbsp;👈👈👈</p>
         </td>
     </tr>
     <tr>
@@ -188,7 +188,7 @@
             <p>
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;首先分析了函数模型误差补偿和随机模型误差补偿法；讨论了Kalman滤波的残差向量、新息向量及状态预报值残差向量的解析关系及协方差矩阵之间的关系；分析了基于新息向量、残差向量和状态预报值残差向量的自适应协方差估计存在的问题；对抗差滤波、Sage自适应滤波进行了综合比较与分析。创建了一套全新的动态自适应抗差滤波理论体系，研究了相应解的性质。构造了三段函数、两段函数和指数函数三种动态自适应因子；讨论了Sage滤波与自适应滤波组合的导航解算方法，基于方差分量估计的自适应滤波理论。构造了最优自适应滤波理论。建立了卫星轨道的自适应定轨理论与方法，提出了一种综合Sage滤波和自适应抗差滤波的新的轨道计算方法。最后对组合导航理论进行了探讨。
             </p>
-            <p align="center" > 👉👉👉&nbsp;  <a href='' target='_blank'>点击跳转</a> &nbsp;👈👈👈</p>
+            <p align="center" > 👉👉👉&nbsp;  <a href='https://github.com/LiZhengXiao99/Navigation-Book/blob/main/%E8%87%AA%E9%80%82%E5%BA%94%E5%8A%A8%E6%80%81%E5%AF%BC%E8%88%AA%E5%AE%9A%E4%BD%8D-%E6%9D%A8%E5%85%83%E5%96%9C.pdf' target='_blank'>点击下载</a> &nbsp;👈👈👈</p>
         </td>
     </tr>
     </tr>
